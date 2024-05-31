@@ -1,5 +1,5 @@
 {
-  "name": "universal-mail",
+  "name": "universal-db",
   "version": "0.0.1",
   "description": "Universal database managers and connectors",
   "main": "index.js",
